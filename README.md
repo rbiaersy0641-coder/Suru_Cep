@@ -45,7 +45,7 @@ src/
 public/
 └── images/
 
-
+```
 
  **COMPONENETS**
  Uygulamada tekrar kullanılan form, menü ve hava durumu bileşenleri
@@ -91,3 +91,18 @@ Projeyi Netlify üzerinden yayınladım. Uygulamaya aşağıdaki bağlantıdan u
 ![alt text](image-5.png)
 
 ![alt text](image-6.png)
+
+
+
+## Ekran Görüntüleri
+
+### Ana Ekran
+![Sürü_Cep](image.png)
+
+### Uygulama Görünümleri
+![Ekran 1](image-1.png)
+![Ekran 2](image-2.png)
+![Ekran 3](image-3.png)
+![Ekran 4](image-4.png)
+![Ekran 5](image-5.png)
+![Ekran 6](image-6.png)
